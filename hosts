@@ -29,6 +29,11 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
+192.168.1.131 main
+192.168.1.111 tl toshlan
+192.168.1.166 rpi pi
+192.168.1.192 phone
+192.168.1.110 unowhy
 
 # End of custom host records.
 # Start StevenBlack
